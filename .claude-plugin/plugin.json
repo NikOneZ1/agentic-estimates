@@ -1,0 +1,13 @@
+{
+  "name": "agentic-estimates",
+  "version": "0.1.0",
+  "description": "Realistic estimates for work AI agents actually execute: agent time, human time and calendar time instead of one human-era number.",
+  "author": {
+    "name": "NikOneZ1",
+    "url": "https://github.com/NikOneZ1"
+  },
+  "homepage": "https://github.com/NikOneZ1/agentic-estimates",
+  "repository": "https://github.com/NikOneZ1/agentic-estimates",
+  "license": "MIT",
+  "keywords": ["estimates", "planning", "agents", "productivity", "skill"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "agentic-estimates",
+  "description": "Claude Code skill for realistic, agent-aware time estimates.",
+  "owner": {
+    "name": "NikOneZ1",
+    "url": "https://github.com/NikOneZ1"
+  },
+  "plugins": [
+    {
+      "name": "agentic-estimates",
+      "source": "./",
+      "description": "Realistic estimates for work AI agents actually execute: agent time, human time and calendar time instead of one human-era number.",
+      "version": "0.1.0"
+    }
+  ]
+}
